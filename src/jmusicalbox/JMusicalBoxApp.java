@@ -4,6 +4,7 @@
 
 package jmusicalbox;
 
+import core.Rack;
 import org.jdesktop.application.Application;
 import org.jdesktop.application.SingleFrameApplication;
 
@@ -12,10 +13,13 @@ import org.jdesktop.application.SingleFrameApplication;
  */
 public class JMusicalBoxApp extends SingleFrameApplication {
 
+    private Rack rig = new Rack();
+    
     /**
      * At startup create and show the main frame of the application.
      */
     @Override protected void startup() {
+        rig.loadLastSession();
         show(new JMusicalBoxView(this));
     }
 

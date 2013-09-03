@@ -1,0 +1,35 @@
+#
+# shell script to install all the dependecis of samplers and synth on Ubuntu
+# 
+
+
+
+
+# install the list
+
+# Linux Sampler
+sudo apt-get install gigedit
+sudo apt-get install linuxsampler
+
+# This seems to be an appropriate place to post instructions on how to install linuxsampler using the packages from the official site:
+
+# 1. Download the latest liblinuxsampler and linuxsampler .deb files from http://download.linuxsampler.org/packages/debian/
+# 2. Save the edit-deb-control.sh script from http://ubuntuforums.org/showthread.php?p=5585977#post5585977 and make it executable
+# 3. Run "./edit-deb-control.sh ~/path/to/liblinuxsampler_*_i386.deb"
+# 4. Change "libgig" to "libgig6", save and exit gedit
+# 5. Install the modified liblinuxsampler package
+# 6. Install the linuxsampler package
+
+
+
+# FluidSynth 
+sudo apt-get install fluidsynth
+
+# Zynaddsubfx
+sudo apt-get install zynaddsubfx
+
+# amSynth
+sudo apt-get install amsynth
+
+# Bristol
+sudo apt-get install bristol

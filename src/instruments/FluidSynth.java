@@ -10,9 +10,9 @@ import javax.sound.midi.MidiEvent;
  *
  * @author assafgoldstein
  */
-public class Bristol implements core.Instrument{
+public class FluidSynth implements core.Instrument{
 
-    // Bristol has a TCP bridge to control it with SYSEX message like midi.
+    // Fluid synth is controlled using socket like telnet.
     
     public int start() {
         throw new UnsupportedOperationException("Not supported yet.");

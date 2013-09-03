@@ -1,0 +1,53 @@
+/* 
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+{
+    "instruments": {
+        "fluidsynth": {
+            "pid": "",
+            "cpu": "12%",
+            "mem": "32MB"
+        },
+        
+        "linuxsampler": {
+            "pid": "",
+            "cpu": "12%",
+            "mem": "32MB"
+        } ,
+        
+        "zynaddsubfx": {
+            "pid": "",
+            "cpu": "12%",
+            "mem": "32MB"
+        } ,
+        
+        "bristol": {
+            "pid": "",
+            "cpu": "12%",
+            "mem": "32MB"
+        } ,
+        
+        "amsynth": {
+            "pid": "",
+            "cpu": "12%",
+            "mem": "32MB"
+        } ,
+        
+        "rackarrack": {
+            "pid": "",
+            "cpu": "12%",
+            "mem": "32MB"
+        } ,
+        
+        "guitarix": {
+            "pid": "",
+            "cpu": "12%",
+            "mem": "32MB"
+        } 
+        
+        
+        
+    }
+}

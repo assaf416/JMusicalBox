@@ -1,0 +1,48 @@
+{
+    "instruments": {
+        "fluidsynth": {
+            "pid": "",
+            "startup_script": "",
+            "preset_home_folder": ""
+        },
+        
+        "linuxsampler": {
+            "pid": "",
+            "startup_script": "",
+            "preset_home_folder": ""
+        } ,
+        
+        "zynaddsubfx": {
+            "pid": "",
+            "startup_script": "",
+            "preset_home_folder": ""
+        } ,
+        
+        "bristol": {
+            "pid": "",
+            "startup_script": "",
+            "preset_home_folder": ""
+        } ,
+        
+        "amsynth": {
+            "pid": "",
+            "startup_script": "",
+            "preset_home_folder": ""
+        } ,
+        
+        "rackarrack": {
+            "pid": "",
+            "startup_script": "",
+            "preset_home_folder": ""
+        } ,
+        
+        "guitarix": {
+            "pid": "",
+            "startup_script": "",
+            "preset_home_folder": ""
+        } 
+        
+        
+        
+    }
+}

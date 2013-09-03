@@ -69,5 +69,9 @@ public class NullInstrument  implements core.Instrument{
     public void onMidiEvent(MidiEvent event) {
         throw new UnsupportedOperationException("Not supported yet.");
     }
+
+    public String[] getProcessStatus() {
+        throw new UnsupportedOperationException("Not supported yet.");
+    }
     
 }

@@ -1,0 +1,21 @@
+/* 
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+{
+    "system-info": { 
+        "device-id": "123432",
+        "sysem-os": "Ubuntu 13LTS",
+        "ram": "4gb",
+        "disk": "320GB"     
+    },
+    
+    "current-info": {
+        "time" : "2013/11/31 18:32:21",
+        "free-mem": "1.2GB",
+        "free-disk": "12GB",
+        
+    }
+    
+}

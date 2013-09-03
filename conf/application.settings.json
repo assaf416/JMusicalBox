@@ -1,0 +1,35 @@
+/* 
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+{
+    "name": "assafgoldstein",
+    "version": "0.2.0",
+    
+    
+    "home_folder": "/etc/musicalbox/home",
+    "system_monitor_perdiod": "30",
+
+    "last_keyboard_player_settings": {
+        "instrument": "fluidsynth",
+        "slot-1": "mellotron-choir",
+        "slot-2": "mellotron-violins",
+        "slot-3": "Piano 123",
+        "slot-4": "Hammond 23",
+        "effect-1": "simple-chorus",
+        "effect-2": "",
+        "keyboard": { "name": "KeyRig61", "USB": "2"}
+    },
+    
+    
+    "midiplayer": {
+        "last_file":        "demo.mid",
+        "last_speed":       "0",
+        "last_transpose":   "0",
+        "channel_sounds":   ["tron-123","piano","bass"]
+    }
+    
+    
+    
+}
